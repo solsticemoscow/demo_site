@@ -1,0 +1,15 @@
+{
+  "DB": {
+    "LIMIT": 4,
+    "SQL_TABLE_PRODUCTS": "karenka_products",
+    "SQL_TABLE_GUEST": "karenka_guest1",
+    "STOCK_STATUS_ALL": "all",
+    "STOCK_STATUS_IN": "instock",
+    "STOCK_STATUS_OUT": "outofstock"
+  },
+  "OTHER": {
+    "HEROKU_ALIAS": "https://karenkashop.herokuapp.com",
+    "MY_LOCAL_WEB": "http://0.0.0.0:5000"
+  },
+  "LIMIT": 77
+}
